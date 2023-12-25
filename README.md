@@ -43,6 +43,8 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+![Screenshot 2023-12-26 001627](https://github.com/NAVEEN23013059/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/150319555/09a47f81-50bf-48e1-aecd-29f340403abf)
+
 ## RESULT:
 Thus, the cut section for solid model is created.
 
